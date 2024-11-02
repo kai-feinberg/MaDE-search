@@ -14,10 +14,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
                 <link rel="shortcut icon" href="/favicon.ico" />
                 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-                <meta name="apple-mobile-web-app-title" content="WildChat" />
+                <meta name="apple-mobile-web-app-title" content="Ask Cappy" />
                 <link rel="manifest" href="/manifest.json" />
-                <meta name="description" content="Chat with Willie the Wildcat for resources on campus!" />
-                <meta property="og:title" content="WildChat" />
+                <meta name="description" content="Chat with Cappy about the best resources for MaDE capstone" />
+                <meta property="og:title" content="Ask Cappy" />
             </head>
             <body className="bg-white">
                 <Navbar></Navbar>

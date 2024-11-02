@@ -68,7 +68,7 @@ export function ChatWindow(props: {
 
     return (
         <div id="chat" className={`flex flex-col items-center my-8 p-4 md:p-8 rounded-xl grow overflow-hidden ${messages.length > 0 ? "" : ""}`}>
-            {messages.length > 0 ? "" : <h1 className="text-3xl text-black font-bold text-center my-[-10]">Ask Willie</h1>}
+            {messages.length > 0 ? "" : <h1 className="text-3xl text-black font-bold text-center my-[-10]"> 👇 Ask Cappy </h1>}
             <h2 className={`${messages.length > 0 ? "" : "hidden"} text-2xl text-black font-medium py-4`}>
                 {emoji} {titleText}
             </h2>

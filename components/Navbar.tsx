@@ -8,7 +8,7 @@ export function Navbar() {
             <div className="flex h-14 items-center justify-between px-4 md:px-6">
                 <div className="flex flex-row align-center gap-2">
                     <PawPrint className="h-8 w-8 text-white" />
-                    <p className="text-xl font-bold mb-2">WildChat</p>
+                    <p className="text-xl font-bold mb-2">Cappy</p>
                 </div>
             </div>
         </header>

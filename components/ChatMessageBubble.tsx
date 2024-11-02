@@ -27,7 +27,7 @@ export function ChatMessageBubble(props: { message: Message; sources: LinkedDocu
             {props.message.role === "user" ? (
                 ""
             ) : (
-                <Image src="/images/willie.png" alt="Willie the Wildcat" width={50} height={0} className="mt-2 mr-2 size-10" />
+                <Image src="/images/grad-cap.png" alt="Willie the Wildcat" width={50} height={0} className="mt-2 mr-2 size-10" />
             )}
             <div className="min-w-0">
                 {/* <span>{props.message.content}</span> */}
