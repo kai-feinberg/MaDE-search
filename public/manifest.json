@@ -1,6 +1,6 @@
 {
-    "name": "WildChat",
-    "description": "Chat with Willie the Wildcat for resources on campus!",
+    "name": "Ask Cappy",
+    "description": "Chat with Cappy about resources for your MaDE capstone!",
     "start_url": "/",
     "icons": [
         {

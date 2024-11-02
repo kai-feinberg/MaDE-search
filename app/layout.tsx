@@ -9,7 +9,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     return (
         <html lang="en">
             <head>
-                <title>WildChat</title>
+                <title>Ask Cappy</title>
                 <link rel="icon" type="image/png" href="/favicon-48x48.png" sizes="48x48" />
                 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
                 <link rel="shortcut icon" href="/favicon.ico" />
